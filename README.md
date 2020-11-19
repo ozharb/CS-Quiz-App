@@ -1,4 +1,4 @@
 ### Quiz App project
-Multipl Choice Web App that test your CS knowledge
+Multiple Choice Web App that test your CS knowledge
 five questions total 
 Difficulty: easy
